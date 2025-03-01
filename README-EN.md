@@ -20,15 +20,16 @@ You can create a simple ScratchOS by downloading the old version source code fro
 ## Directory Structure
 
 | Directory | Function | Notes |
-|:-:|:-|:-:|
+| --- | --- | --- |
 | src | All versions of RadiumOS source code | - |
 | webos | Deployed online RadiumOS version | Accessible via this repository's GitHub Pages |
 | update | Content for desktop version online updates | Access update content via source code files |
 | store | Online RadiumOS software repository | Access software content via source code files |
+| Other folders | Official website files | Built with Hexo |
 
 ## History
 
-Around 2021, the prototype of RadiumOS, "**ZIUI**," was developed but was discontinued after six months. In 2024, development of **RadiumOS** resumed, but in October 2024, I felt that RadiumOS was too complicated, so I stopped development again. In the same month, I started working on **RadiumOS R-E**. Now, they are all here.
+Around 2021, the prototype of RadiumOS, " **ZIUI**," was developed but was discontinued after six months. In 2024, development of **RadiumOS** resumed, but in October 2024, I felt that RadiumOS was too complicated, so I stopped development again. In the same month, I started working on **RadiumOS R-E**. Now, they are all here.
 
 ## Plans
 
@@ -39,6 +40,6 @@ Around 2021, the prototype of RadiumOS, "**ZIUI**," was developed but was discon
 - [ ] Settings, music, and other applications
 - [ ] **Super amazing plan**: Develop a RadiumScript interpreter
 
-***
-<div style="text-align:center">If you think RadiumOS is a good project with potential, please give it a Star. Thank you!</div>
+***  
+<div style="text-align:center">If you think RadiumOS is a good project with potential, please give it a Star. Thank you!</div>  
 <div style="text-align:center">Copyright (c) 2024-2025 Cyberexplorer, all rights reserved.</div>
