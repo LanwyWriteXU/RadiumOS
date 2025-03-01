@@ -2,7 +2,7 @@
 
 <div style="text-align:center">
 
-[中文](https://github.com/LanwyWriteXU/RadiumOS/blob/main/README.md ) | En.
+[中文](https://github.com/LanwyWriteXU/RadiumOS/blob/main/README-CN.md ) | En.
 
 </div>
 
