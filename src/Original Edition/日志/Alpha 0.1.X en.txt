@@ -1,0 +1,48 @@
+A0.1.0615
+Do a little www on the taskbar
+ 
+A0.1.0613
+Updated the "time" section of the Dock again!
+The "Changelog" thing has not been updated yet
+ 
+A0.1.0612
+* Small update!! *
+Updated the "time" section of the Dock...
+Feeling bad about what you're doing? And a small BUG?? !
+Forget it, put it aside, after all, to the high school entrance examination www
+ 
+A0.1.0606
+Now there's something in the Settings! But there is no function yet.
+ 
+A0.1.0603
+Reworked changelog functionality.
+ 
+A0.1.0602
+Click "Ra" in the top left corner to open a Changelog!
+ 
+A0.1.0601
+I redrew the window and made a useless start menu...
+And then what? Added something that's not yet visible in the UI...
+But you can click on the top column
+ 
+A0.1.531
+Redraw the window and add three more Windows to the test window stack...
+ 
+A0.1.530
+A few Windows removed, a bit of drag redone, and a still-useless Top Bar...
+ 
+A0.1.529
+Updated drag detection
+ 
+A0.1.528
+Added the most important window stacking and sorting, multi-window implementation!
+ 
+A0.1.0
+First Alpha release with basic ICONS and Windows and taskbars.
+ 
+A0.1. X
+* UI updates *
+The X in this version number refers to the level 3 version number, and there are no major updates to either version of A0.1, so they are collectively referred to as A0.1.x.
+In A0.1.X, my main task is to develop the basic functions of the system, such as multi-windows. As it happens, I did build a smooth engine. It's silky and beautiful.
+But I must also continue to simplify enrichment and system software before opening up software development.
+If you want to develop software for this OS, stay tuned for future updates!
