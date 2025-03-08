@@ -2,13 +2,15 @@
 
 <div style="text-align:center">
 
-[中文](https://github.com/LanwyWriteXU/RadiumOS/blob/main/README.md ) | En.
+[中文](https://github.com/LanwyWriteXU/RadiumOS/blob/main/README.md) | En.
 
 </div>
 
+Click [here](https://lanwywritexu.github.io/RadiumOS) to visit the **official RadiumOS website**, and click [here](https://lanwywritexu.github.io/RadiumOS/webOS/lasted) to access the **online version of RadiumOS**.
+
 RadiumOS is a **WebOS** project based on Scratch, which is open-sourced to help other Scratchers create their own ScratchOS.
 
-> When people assume your ScratchOS is a Linux distribution, you have reached the pinnacle of human achievement. (Mistium)  
+> When people assume your scratchOS is a linux distro is when you have reached the peak of human accomplishment. (Mistium)
 > (Note: Mistium is the developer of [originOS](https://github.com/Mistium/Origin-OS ), an interpreter that allows you to create applications by writing OSL.)
 
 If you have the capability, you can use it as a frontend to connect to the system via Node.js and perform some system operations. However, doing so seems to be pointless.
@@ -20,16 +22,12 @@ You can create a simple ScratchOS by downloading the old version source code fro
 ## Directory Structure
 
 | Directory | Function | Notes |
-| --- | --- | --- |
+| :-: | :-: | :-: |
 | src | All versions of RadiumOS source code | - |
 | webos | Deployed online RadiumOS version | Accessible via this repository's GitHub Pages |
 | update | Content for desktop version online updates | Access update content via source code files |
 | store | Online RadiumOS software repository | Access software content via source code files |
-| Other folders | Official website files | Built with Hexo |
-
-## History
-
-Around 2021, the prototype of RadiumOS, " **ZIUI**," was developed but was discontinued after six months. In 2024, development of **RadiumOS** resumed, but in October 2024, I felt that RadiumOS was too complicated, so I stopped development again. In the same month, I started working on **RadiumOS R-E**. Now, they are all here.
+| blog | Files for the RadiumOS official website | Built with Hexo |
 
 ## Plans
 
@@ -40,6 +38,7 @@ Around 2021, the prototype of RadiumOS, " **ZIUI**," was developed but was disco
 - [ ] Settings, music, and other applications
 - [ ] **Super amazing plan**: Develop a RadiumScript interpreter
 
-***  
-<div style="text-align:center">If you think RadiumOS is a good project with potential, please give it a Star. Thank you!</div>  
+***
+
+<div style="text-align:center">If you think RadiumOS is a good project with potential, please give it a Star. Thank you!</div>
 <div style="text-align:center">Copyright (c) 2024-2025 Cyberexplorer, all rights reserved.</div>
