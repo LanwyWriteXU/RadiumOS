@@ -11,7 +11,9 @@
 RadiumOS 是一个基于 Scratch 开发的 **WebOS** 作品，开源旨在帮助其他 Scratcher 创建他们的 ScratchOS 。
 
 > 如果别人认为你的ScratchOS是一个Linux发行版的时候，你就得到了人类最高的成就。   (Mistium)
+>
 > When people assume your scratchOS is a linux distro is when you have reached the peak of human accomplishment.
+>
 > (注:Mistium 是 [originOS](https://github.com/Mistium/Origin-OS) 的开发者，其中 originOS 是一个解释器，你可以通过编写 OSL 来创建应用程序)
 
 如果有能力，你完全可以将其作为前端提供 Node.js 连接到系统，并执行一些系统操作；然而这样做仿佛没有任何意义。
