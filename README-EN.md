@@ -1,8 +1,8 @@
-# <font color="#66ccff" size="36">RadiumOS</font>
+# RadiumOS
 
 <div style="text-align:center">
 
-[中文](https://github.com/LanwyWriteXU/RadiumOS/blob/main/README.md ) | En.
+中文 | [En.](https://github.com/LanwyWriteXU/RadiumOS/blob/main/README-EN.md )
 
 </div>
 
@@ -10,9 +10,7 @@ Click [here](https://lanwywritexu.github.io/RadiumOS/webos/lasted ) to access th
 
 RadiumOS is a **WebOS** project based on Scratch, open-sourced to help other Scratchers create their own ScratchOS.
 
-> When people assume your ScratchOS is a Linux distribution, you've reached the pinnacle of human achievement. (Mistium)
->
-> When people assume your scratchOS is a linux distro is when you have reached the peak of human accomplishment.
+> When people assume your scratchOS is a linux distro is when you have reached the peak of human accomplishment. (Mistium)
 >
 > (Note: Mistium is the developer of [originOS](https://github.com/Mistium/Origin-OS ), an interpreter that allows you to create applications by writing OSL.)
 
@@ -25,13 +23,12 @@ You can create a simple ScratchOS by downloading the old version source code fro
 ## Directory Structure
 
 | Directory | Function | Notes |
-|:-:|:-:|:-:|
+| :---: | :---: | :---: |
 | src | All versions of RadiumOS source code | - |
 | webos | Deployed online RadiumOS version | Accessible via this repository's GitHub Pages |
 | update | Content for desktop version online updates | Access update content via source code files |
 | store | Online RadiumOS software repository | Access software content via source code files |
-| blog | [RadiumOS Official Website](https://lanwywritexu.github.io/RadiumOS ) files| Built with Hexo |
-| docs | [RadiumOS Documentation](https://lanwywritexu.github.io/RadiumOS/docs ) files| Built with Jekyll |
+| start, docs | [RadiumOS Documentation](https://lanwywritexu.github.io/RadiumOS/docs ) files | Built with Jekyll |
 
 ## Plans
 
