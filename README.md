@@ -6,7 +6,7 @@
 
 </div>
 
-点击[这里](https://lanwywritexu.github.io/RadiumOS)来访问 **RadiumOS 官方网站**，点击[这里](https://lanwywritexu.github.io/RadiumOS/webOS/lasted)来访问 **RadiumOS 在线版**
+点击[这里](https://lanwywritexu.github.io/RadiumOS/webos/lasted)来访问 **RadiumOS 在线版**
 
 RadiumOS 是一个基于 Scratch 开发的 **WebOS** 作品，开源旨在帮助其他 Scratcher 创建他们的 ScratchOS 。
 
@@ -30,7 +30,8 @@ RadiumOS 是一个基于 Scratch 开发的 **WebOS** 作品，开源旨在帮助
 |webos|已部署的在线 RadiumOS 版本|通过访问本库的 GitHub Pages 部署来在线使用|
 |update|用于存放桌面版联网更新内容|通过访问源码文件来获取更新内容|
 |store|用于在线获取 RadiumOS 软件|通过访问源码文件来获取软件内容|
-|blog|RadiumOS官方网站文件|使用Hexo搭建|
+|blog|[RadiumOS官方网站](https://lanwywritexu.github.io/RadiumOS)文件|使用 Hexo 搭建|
+|docs|[RadiumOS相关文档](https://lanwywritexu.github.io/RadiumOS/docs)文件|使用 Jekyll 搭建|
 
 ## 计划
 
