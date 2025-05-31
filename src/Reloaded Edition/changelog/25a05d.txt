@@ -1,0 +1,5 @@
+2025年5月最后一次更新
+
+项目更新：
+· 添加了Cyberexplorer修改版handsomeer的中文输入法(原作品https://www.ccw.site/detail/6374a258fe1b971d270cfe67)
+· 修复了部分已知BUG
