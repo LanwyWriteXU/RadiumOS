@@ -1,4 +1,5 @@
 * [介绍]()
+    * [更新日志](/docs/changelog.md)
     * [历史](/docs/history.md)
     * [使用](/docs/use.md)
 * [二次开发](/docs/develop.md)

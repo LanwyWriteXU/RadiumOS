@@ -9,3 +9,5 @@
 当时我为了想一个名字弄了很久。因为很喜欢化学，所以选择了88号元素 **_镭_** 作为名称。选它不仅是因为我喜欢它，而且还因为`它带有一种探索未知的勇气和决心`。也是在这年，我的网名改成了 **Cyberexplorer**。因此，我将这个 ScratchOS 命名为 **RadiumOS**，并开发了大概6个月，在2024年10月左右，我终止了对 RadiumOS 的支持，以及开发。
 
 不久后，我开始重制这一项目，并命名为 **RadiumOS R-E** <small>Remastered Edition</small> 。时至今日，我仍然在开发 RadiumOS R-E，它也许很久之后才会停止更新。
+
+在编写一部分 **RTaDOS** 之后，我开始使用画笔制作 RadiumOS，并命名为 **RadiumOS R-E** <small>Reloaded Edition</small> 。这次，我着手于画笔窗口引擎的开发，希望得到一个迅速且稳定的 WebOS。
