@@ -1,3 +1,13 @@
+## 当前支持：RadiumOS R-E <small>Reloaded Edition</samll>
+
+### 2025年7月第一次更新
+
+#### 项目更新：
+- 修改了窗口本体的绘制逻辑
+- 添加了窗口标题栏宽度小于圆角半径的绘制
+- 添加了开始按钮和开始菜单的操作
+- 修复了已知BUG
+
 ### 2025年6月最后一次更新
 
 #### 项目更新
@@ -7,7 +17,7 @@
 - 修复了一些已知BUG
 
 #### 其他更改：
-- 删除了Pen Edition代码库
+- 删除了PE <small>Pen Edition</small> 代码库
 
 ### 2025年6月第四次更新
 
@@ -63,7 +73,6 @@
 #### 项目更新：
 - 增加了窗口的标题栏和侧栏的绘制
 - 优化了标题栏和侧栏的绘制逻辑
-
 - 下一步就要开始制作拖动了
 
 ### 2025年5月第一次更新
@@ -76,4 +85,24 @@
 - 重新规范了旧版本版本号
 - 重新规范了库结构
 
-### RadiumOS Reloaded Edition 开发开始
+## RadiumOS Reloaded Edition 开发开始
+
+## RadiumOS Remastered Edition 终止支持
+
+源码可以到[RadiumOS Remastered Edition](https://github.com/LanwyWriteXU/RadiumOS/tree/main/src/Reloaded%20Edition/old%20version)查看
+
+## RadiumOS Remastered Edition 开发开始
+
+### 2025年1月
+
+## RadiumOS 开发终止
+
+### 2024年10月
+
+## RadiumOS 开发开始
+
+### 2024年5月
+
+***
+
+<div style="text-align: center;">------ 再早点就没有咯 ------</div>
