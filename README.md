@@ -20,7 +20,7 @@ RadiumOS 是一个基于 Scratch 开发的 **WebOS** 作品，开源旨在帮助
 
 > 本项目仅供学习和娱乐，不触及任何侵权行为，你可以随意改编它，发放它，甚至是售卖它，后面的事情都**和我没关系**，你只需要标注作品最终所属人的名字是我。
 
-你可以通过下载 `RadiumOS/src/Original Edition` 中的旧版本源码编辑一个简单的 ScratchOS，但是最初版已经停止了开发；你可以通过下载 `RadiumOS/src/Remastered Edition` 中的重制版源码制作更高级更多功能的一个 ScratchOS，并通过 TurboWarp Packager 来部署到 GitHub Pages 上。
+你可以通过下载 `RadiumOS/src/Original Edition` 中的旧版本源码编辑一个简单的 ScratchOS，但是最初版已经停止了开发；你可以通过下载 `RadiumOS/src/Reloaded Edition` 中的重制版源码制作更高级更多功能的一个 ScratchOS，并通过 TurboWarp Packager 来部署到 GitHub Pages 上。我不确定这个东西是否打到你们的需求，但是我会继续维护它。因为热爱。
 
 ## 库结构
 
@@ -30,13 +30,13 @@ RadiumOS 是一个基于 Scratch 开发的 **WebOS** 作品，开源旨在帮助
 |webos|已部署的在线 RadiumOS 版本|通过访问本库的 GitHub Pages 部署来在线使用|
 |update|用于存放桌面版联网更新内容|通过访问源码文件来获取更新内容|
 |store|用于在线获取 RadiumOS 软件|通过访问源码文件来获取软件内容|
-|start、docs|[RadiumOS相关文档](https://lanwywritexu.github.io/RadiumOS)文件|使用 Jekyll 搭建|
+|docs|[RadiumOS相关文档](https://lanwywritexu.github.io/RadiumOS)文件|使用 Jekyll 搭建|
 
 ## 计划
 
 - [ ] RTaDOS(Radium Terminal and Disk Operating System) 开发
     - [x] 准备 Radium 账户服务
-- [ ] 新的 RadiumOS R-E 用户界面
+- [x] 新的 RadiumOS R-E 用户界面
 - [ ] 在线更新功能
 - [ ] 设置、音乐等软件
 - [ ] **超级无敌上天入地屌炸天计划** 开发 RadiumScript 解释器
