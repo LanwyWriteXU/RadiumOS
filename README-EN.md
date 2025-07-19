@@ -27,7 +27,6 @@ Directory Structure
 |webos|Deployed online version of RadiumOS|Accessible via the GitHub Pages deployment of this repository|
 |update|Content for desktop version online updates|Obtain update content by accessing the source code files|
 |store|Online repository for RadiumOS software|Obtain software content by accessing the source code files|	
-|docs|[RadiumOS Documentation](https://lanwywritexu.github.io/RadiumOS)|Built using Jekyll|
 
 Roadmap
 
