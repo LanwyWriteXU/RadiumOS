@@ -24,7 +24,7 @@ Directory Structure
 |Directory|Function|Notes|
 |:-:|:-:|:-:|
 |src|Source code for all versions of RadiumOS|-|
-|webos|Deployed online version of RadiumOS|Accessible via the GitHub Pages deployment of this repository|
+|docs|document and online version deployment|-|
 |update|Content for desktop version online updates|Obtain update content by accessing the source code files|
 |store|Online repository for RadiumOS software|Obtain software content by accessing the source code files|	
 

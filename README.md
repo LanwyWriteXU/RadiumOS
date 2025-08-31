@@ -27,7 +27,7 @@ RadiumOS 是一个基于 Scratch 开发的 **WebOS** 作品，开源旨在帮助
 |目录|功能|备注|
 |:-:|:-:|:-:|
 |src|历代所有的 RadiumOS 源代码|-|
-|webos|已部署的在线 RadiumOS 版本|通过访问本库的 GitHub Pages 部署来在线使用|
+|docs|文档和在线版部署|-|
 |update|用于存放桌面版联网更新内容|通过访问源码文件来获取更新内容|
 |store|用于在线获取 RadiumOS 软件|通过访问源码文件来获取软件内容|
 
